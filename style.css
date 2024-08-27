@@ -10,7 +10,15 @@ h2 {
 p {
 	text-align: center;
 	border-style: double;
+	color: green;
+}
+p::first-line {
+	color: green;
+	font-variant: small-caps;
 }
 body {
 	background-color: #80ccff;
+}
+#seventeen{
+	border-style: dotted;
 }
