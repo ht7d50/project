@@ -22,3 +22,7 @@ body {
 #seventeen{
 	border-style: dotted;
 }
+img {
+	width: 300px;
+	height: auto;
+}
